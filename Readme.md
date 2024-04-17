@@ -1,6 +1,4 @@
-######
+##Data Mining and Machine Learning Project
 
-Data Mining and Machine Learning Project
-
-##### Datasets
-# Electric Vehicle Datasets (2017 - 2020)
+### Datasets
+#### Electric Vehicle Datasets (2017 - 2020)
